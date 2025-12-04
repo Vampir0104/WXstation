@@ -9,3 +9,7 @@ To use, create an enviroment for Python 3.11, use CD to point to the directory t
 
 Use IATA codes to call weather reports and TAFs/forecasts.  IE: KSLC, KDTW, KORD
 Reports are returned in raw form.
+
+1.02 release:
+
+URL updated and minor refinements implemented
